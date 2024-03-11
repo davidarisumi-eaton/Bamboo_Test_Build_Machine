@@ -1,0 +1,3 @@
+[submodule "ACB-PXR-35-SensorBus_Common_All"]
+	path = ACB-PXR-35-SensorBus_Common_All
+	url = git@github.com:etn-electrical/ACB-PXR-35-SensorBus_Common_All.git

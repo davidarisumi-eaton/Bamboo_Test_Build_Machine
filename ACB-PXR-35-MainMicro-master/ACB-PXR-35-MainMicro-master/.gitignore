@@ -1,0 +1,41 @@
+Debug/
+Debug/Exe/
+settings/
+
+*.out
+*.map
+*.pdb
+*.d_raw
+*.ipch
+*.txt
+*.db
+*.out
+*.prefs
+*.map
+*.xml
+*.zip
+*.exe
+*.png
+*.dat
+*.d43
+~$*.docx
+*.log
+*.d
+*.lst
+*.mk
+<<<<<<< HEAD
+*.dep
+*.hex
+*.out
+*.map
+*.sim
+=======
+Berts Protection Code/main.c
+Berts Protection Code/Prot.c
+Berts Protection Code/Prot_def.h
+Berts Protection Code/Prot_ext.h
+Code/Modbus_sav.c
+Randy's Setpoints Code/Settings_Menu.c
+Randy's Setpoints Code/Settings_Menu.h
+Randy's Setpoints Code/Settings_Menu_ext.h
+>>>>>>> master
